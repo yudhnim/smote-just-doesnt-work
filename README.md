@@ -21,6 +21,3 @@ So, how can we address the problems of class imbalance in tabular dataset ? If w
 
 (will update later)
 
-
-
-Resampling and augmentation techniques are often more effective in computer vision, where the data's continuous and spatial nature allows synthetic variations to remain realistic. Techniques like image rotation, flipping, or feature embedding augmentations help models learn invariant patterns (e.g., object shapes) without compromising authenticity. In contrast, tabular data's heterogeneous feature space and domain-specific constraints make synthetic samples less reliable, as interpolated values may not adhere to real-world relationships or categorical boundaries.
